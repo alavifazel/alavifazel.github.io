@@ -4,6 +4,7 @@ title: About
 ---
 
 I am a graduate student at Carleton University working on Modelling and Simulation (M&S).
+You might be interested in checking out the <a href="/blog">blog</a>.
 
 ### Contact
 
