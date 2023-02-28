@@ -3,10 +3,10 @@ layout: page
 title: About
 ---
 
-I am a graduate student at Carleton University.
+Currently a Master's student at Carleton University.
 You might be interested in checking out my <a href="/blog">blog</a>.
 
-### Contact
+### Online Profiles
 
 - email: siafazel at gmail.com
 - <a href="https://github.com/alavifazel">Github</a>
