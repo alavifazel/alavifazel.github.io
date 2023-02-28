@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-I am a graduate student at Carleton University working on Modelling and Simulation (M&S).
-You might be interested in checking out the <a href="/blog">blog</a>.
+I am a graduate student at Carleton University.
+You might be interested in checking out my <a href="/blog">blog</a>.
 
 ### Contact
 
@@ -17,4 +17,5 @@ You might be interested in checking out the <a href="/blog">blog</a>.
 - <a href="">C++ Tutorial book (in Farsi)</a>
 - <a href="https://github.com/DigitalNX">DigitalNX</a> : Open-source home automation project including device code, web interface, mobile app and more.
 - <a href="https://github.com/alavifazel/telegramWPPoster">TelegtamWPPoster</a> : A telegram bot that posts articles to a Wordpress website by sending/forwarding messages to it.
-- <a href="https://github.com/alavifazel/block_puzzle">block_puzzle</a> : A small puzzle game similar to 2-D version of Blockout written in C++.
+- <a href="https://github.com/alavifazel/block_puzzle">block_puzzle</a> : A simple 2D puzzle game similar to Blockout written in C++.
+- <a href="https://github.com/alavifazel/ShelemCounter">ShelemCounter</a> : A handy small web app for tracking Shelem card game points.
