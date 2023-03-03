@@ -8,7 +8,7 @@ categories: cs
 ---
 
 ## Cellular Automata
-Perhaps, you are already familiar with the concept of Finit [Finite Automata](https://en.wikipedia.org/wiki/Deterministic_finite_automaton).
+Perhaps, you are already familiar with the concept of [Finite Automata](https://en.wikipedia.org/wiki/Deterministic_finite_automaton).
 Essentially, Cellular Automata (CA), is grid-like model (considering the 2D version of it, but there are also 3D) which is made up of tiny Finite state machines.
 In this model, each cell has a state and by receiving inputs from its neighbouring cells, makes a transition to a new state.
 To use FSM for simulation purposes, the program has to periodically run the model to trigger the transision.
