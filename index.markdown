@@ -13,7 +13,7 @@ You might be interested in checking out my <a href="/blog">blog</a>.
 - <a href="https://www.linkedin.com/in/alavifazel/">Linkedin</a>
 - <a href="https://stackoverflow.com/users/6737309/iman-a-fazel">stackoverflow</a>
 
-### A list of projects/publications I've done:
+### List of projects/publications:
 - <a href="">C++ Tutorial book (in Farsi)</a>
 - <a href="https://github.com/DigitalNX">DigitalNX</a> : Open-source home automation project including device code, web interface, mobile app and more.
 - <a href="https://github.com/alavifazel/telegramWPPoster">TelegtamWPPoster</a> : A telegram bot that posts articles to a Wordpress website by sending/forwarding messages to it.
