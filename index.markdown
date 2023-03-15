@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Currently a Master's student at Carleton University.
+I am currently a Master's student at Carleton University, researching in the area of Modeling and Simulation (M&S).
 You might be interested in checking out my <a href="/blog">blog</a>.
 
 ### Online Profiles
