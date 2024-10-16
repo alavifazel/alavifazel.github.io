@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-I am currently a Master's student at Carleton University, researching in the area of Modeling and Simulation (M&S).
+I recently graduated from Carleton University, where I researched Modeling and Simulation (M&S) in the field of embedded systems.
 You might be interested in checking out my <a href="/blog">blog</a>.
 
 ### Online Profiles
 
-- email: siafazel at gmail.com
+- email: im.alavifazel at gmail.com
 - <a href="https://github.com/alavifazel">Github</a>
 - <a href="https://www.linkedin.com/in/alavifazel/">Linkedin</a>
 - <a href="https://stackoverflow.com/users/6737309/iman-a-fazel">stackoverflow</a>
