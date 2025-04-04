@@ -28,7 +28,7 @@ With a bandlimited signal, sampling does not cause any overlaps between frequenc
 (to review what 'overlap' means here, I suggest reviewing the sampling theorem from the references provided at the end of the article).
 
 We may now ask: **Since an anti-aliasing filter removes the frequencies of the signal above a certain value, how different is the output of the filter compared to the original signal?**
-In other words, if we send our signal through an anti-aliasing filter, then take an inverse Fourier Transform to retrieve the time-domain signal, does the output resemble the orignal signal well?
+In other words, if we send our signal through an anti-aliasing filter, then take an inverse Fourier Transform to retrieve the time-domain signal, does the output resemble the orignal signal?
 
 To answer this, first let's compare the energy of the original and the filtered signal.
 An anti-aliasing filter affects the signal based on how much of the signal's energy was beyond the cutoff frequency of the filter (recap Parseval's theorem).
