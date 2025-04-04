@@ -34,7 +34,7 @@ To answer this, first let's compare the energy of the original and the filtered 
 An anti-aliasing filter affects the signal based on how much of the signal's energy was beyond the cutoff frequency of the filter (recap Parseval's theorem).
 In particular, a signal may have the majority of its energy below a certain frequency, with negligible content beyond that threshold.
 For such signals, the anti-aliasing filter does not significantly alter the energy of the original signal (however, it extends the signal from $$-\infty$$ to $$+\infty$$).
-To illustrate what was mentioned above, assume we have an audio signal consisting of a single sine wave at 400 Hz.
+To illustrate what was mentioned above, assume we have an audio signal consisting of a single sine wave, let's say at 400 Hz.
 Mathematically, such a signal is a *truncated sine wave*.
 The spectrum of a sine wave consists of two delta functions located at positive and negative frequencies.
 Truncating a sine wave is equivalent to multiplying the sine wave by a rectangular function defined as:
