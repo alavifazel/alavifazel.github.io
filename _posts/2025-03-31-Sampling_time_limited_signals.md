@@ -73,7 +73,7 @@ Back to the truncated sine signal, we compared the original signal and the filte
 To answer this, we again use the property of the Fourier transform that states that convolution and multiplication in the frequency and time domains are duals of each other.
 Specifically, when an ideal anti-aliasing filter is applied to the signal in the frequency domain, that is equivalent to the convolution of a sinc pulse with the original signal in the time domain.
 How would that change the signal?
-Well, we have to compute the convolution to answer that.
+Well, we have to do the convolution to answer that.
 However, something we can guarantee is that it will be a signal whose majority of energy is concentrated in a finite interval of time.
 How can we prove that?
 As we have already seen, the essential bandwidth of a sinc pulse is limited and equals the first lobe of the signal.
