@@ -79,7 +79,7 @@ How can we prove that?
 As we have already seen, the essential bandwidth of a sinc pulse is limited and equals the first lobe of the signal.
 Subsequently, when we convolve such a signal with a time-limited signal, we get something that its energy is concentrated in a finite interval as well.
 
-Lastly, we can ask: how does the sampling theorem apply to a signal with a short duration?
+Lastly, we can ask: **How does the sampling theorem apply to a signal with a short duration?**
 That is, we have a signal that is multiplied by a short rect function.
 To achieve this, we can sample the signal at a rate much higher than twice the frequency of the sine wave.
 This ensures that the majority of the signal's energy remains below the cutoff frequency of the anti-aliasing filter.
