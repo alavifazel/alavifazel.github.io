@@ -87,8 +87,8 @@ This ensures that the majority of the signal's energy remains below the cutoff f
 ### Final remarks
 In this post, we assumed that the anti-aliasing filter was an ideal low-pass filter that removes all frequencies beyond a certain value.
 However, such filters are non-causal.
-Though mathematically correct, it is impossible to build a physical device that operates in real time with such a filter.
-This is because a non-causal filter requires knowledge of future values of the signal, which are unavailable in real time applications.
+Though mathematically correct, it is not possible to build a physical device that could operate in real time.
+This is because a non-causal filter requires knowledge of future values of the signal, and that information is not available in real-time applications.
 In practice, real anti-aliasing filters pass frequencies below the cutoff frequency, and significantly reducing the ones above it.
 This suppresses the higher frequencies but does not eliminate them entirely.
 In other words, a practical anti-aliasing filter does have an infinite bandwidth.
