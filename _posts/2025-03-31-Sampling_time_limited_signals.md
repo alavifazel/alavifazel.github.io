@@ -7,7 +7,7 @@ date: 2025-04-03 05:19:46 +0330
 categories: ee
 ---
 
-The sampling theorem is a fundamental principle in signal processing that is used in numerous technologies, including digital communication and digital audio processing.
+The sampling theorem is a fundamental principle in signal processing that is used in various technologies, including digital communication and digital audio processing.
 In short, this theorem states that a bandlimited signal, i.e. a signal whose Fourier Transform is zero above a certain frequency, can be perfectly reconstructed if sampled higher than twice its highest frequency component.
 By sampling the signal with this rate, the resulting discrete-time signal has a spectrum consisting of multiple copies of the original bandlimited spectrum, each centered at an integer multiple of the sampling frequency.
 To recover the original analog signal, we can apply a low-pass filter that keeps a single copy of the spectrum centered around the origin.
