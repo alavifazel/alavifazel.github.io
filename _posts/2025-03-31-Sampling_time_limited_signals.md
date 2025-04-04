@@ -53,7 +53,7 @@ $$
 \end{cases}
 $$
 
-A theorem in Fourier Analysis states that multiplication in the time domain is equivalent to convolution in the frequency domain (and vice versa).
+A key theorem in Fourier analysis states that multiplying two functions in the time domain corresponds to convolving their Fourier transforms in the frequency domain, and vice versa.
 Putting everything together, the spectrum of a truncated sine wave is computed as the convolution of two Dirac pulses (corresponding to the sine wave) and the sinc function (corresponding to the rectangular function).
 
 ![img](/assets/img/4/2.png)
