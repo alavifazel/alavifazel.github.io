@@ -27,10 +27,10 @@ This filter ideally cuts off all content of the signal above a certain frequency
 With a bandlimited signal, sampling does not cause any overlaps between frequencies of the function
 (to review what 'overlap' means here, I suggest reviewing the sampling theorem from the references provided at the end of the article).
 
-We may now ask: since an this filter removes the frequencies of the function above a certain value, how different is the output of the filter compared to the original signal?
+We may now ask: *since an this filter removes the frequencies of the function above a certain value, how different is the output of the filter compared to the original signal?*
 In other words, if we send our signal through an anti-aliasing filter, then take an inverse Fourier Transform to retrieve the time-domain signal, does this signal resemble the original time-limited signal well, or is there a significant difference between them?
 
-To answer this, first let's compare the energy of the original and the filtered signal.
+To answer this, first let's compare the *energy* of the original and the filtered signal.
 An anti-aliasing filter affects the signal based on how much of the signal's energy was beyond the cutoff frequency of the filter (recap Parseval's theorem).
 In particular, a signal may have the majority of its energy below a certain frequency, with negligible content beyond that threshold.
 For such signals, the anti-aliasing filter does not significantly alter the energy of the original signal (however, it extends the signal from $$-\infty$$ to $$+\infty$$).
