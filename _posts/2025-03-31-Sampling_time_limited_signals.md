@@ -69,7 +69,7 @@ This concept appears in various areas of digital signal processing (DSP).
 An example is the design of FIR filters using the windowing method (P.S. You can design and experiment with such filters using the web app I developed a while ago at [dsptoolkit.github.io](dsptoolkit.github.io)).
 
 Back to the truncated sine signal, we compared the original signal and the filtered signal in terms of their energy.
-But how about the shape of the orignal and the filtered signal?
+**But how about the shape of the orignal and the filtered signal?**
 To answer this, we again use the property of the Fourier transform that states that convolution and multiplication in the frequency and time domains are duals of each other.
 Specifically, when an ideal anti-aliasing filter is applied to the signal in the frequency domain, that is equivalent to the convolution of a sinc pulse with the original signal in the time domain.
 How would that change the signal?
